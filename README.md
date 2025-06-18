@@ -58,3 +58,8 @@ Listening on port: 3000
 ......
 true
 ```
+
+## Credits
+This project is based on Information Security course by freeCodeCamp.
+You can find the original project instructions at:
+https://www.freecodecamp.org/learn/information-security/#information-security-with-helmetjs
